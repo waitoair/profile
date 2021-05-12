@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+img {
+  height: 170px;
+  width: 170px;
+  border-radius: 90px;
+}
+.card {
+  box-shadow: 0 10px 30px rgba(5, 5, 5, 0.1);
+  padding: 50px;
+  border-radius: 20px;
+  margin: 20px 0 25px 0;
+}
+
+.container {
+  align-items: center;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  background-image: linear-gradient(to right, rgba(38, 172, 172, 0.801), rgb(178, 66, 201));
+  line-height: 35px;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 20px;
+}
+
+li i {
+  font-size: 50px;
+  color: rgb(12, 11, 11);
+}
