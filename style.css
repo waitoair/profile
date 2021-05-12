@@ -4,6 +4,7 @@ img {
   height: 170px;
   width: 170px;
   border-radius: 90px;
+  object-fit: cover;
 }
 .card {
   box-shadow: 0 10px 30px rgba(5, 5, 5, 0.1);
